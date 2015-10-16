@@ -1,0 +1,1 @@
+Run: java -cp target\crawler-1.0.jar;lib\*;. com.crawler.app.run.JellyfishCrawlSiteCBController (Linux replace ";" to ":")
